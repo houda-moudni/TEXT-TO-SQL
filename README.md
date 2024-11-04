@@ -1,6 +1,4 @@
 # TEXT-TO-SQL
-TEXT-TO-SQL : Chatbot to translate natural language into SQL queries with Transformers (DEEP LEARNING APPROACH)
-
 This project demonstrates two approaches to building a chatbot capable of converting natural language questions into SQL queries: a custom-built model from scratch and a fine-tuned transfer learning model. 
 
 ## Project Overview
