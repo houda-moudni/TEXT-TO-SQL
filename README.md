@@ -44,7 +44,7 @@ Both versions use a dataset of natural language questions and corresponding SQL 
 ## Deployment
 
 The fine-tuned T5 model is deployed in a Streamlit web app, providing users with a user-friendly interface to convert natural language questions into SQL in real time. This deployment demonstrates the model’s practical application for SQL generation tasks.
-![image](https://github.com/houda-moudni/TEXT-TO-SQL/blob/main/static/SQL_I_interface.png)
+![image](https://github.com/houda-moudni/TEXT-TO-SQL/blob/main/static/SQL_Y_interface.png)
 
 ### Try the Web App
 Access the live Streamlit app here: [Text-to-SQL Chatbot](https://text-to-sql-bot.streamlit.app/)
